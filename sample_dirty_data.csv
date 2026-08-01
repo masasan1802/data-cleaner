@@ -1,0 +1,9 @@
+Customer Name,  Email ,Age,Purchase Amount,Signup Date
+John Smith,john@email.com,34,"$1,200.50",2023-01-15
+jane doe , JANE@EMAIL.COM,29,850.00,2023-02-20
+John Smith,john@email.com,34,"$1,200.50",2023-01-15
+Bob Wilson,bob@email.com,,450.75,2023-03-10
+Alice Brown, alice@email.com,45,"$2,300.00",2023-01-30
+Bob Wilson,bob@email.com,41,450.75,2023-03-10
+Carol White,carol@email.com,38,,2023-04-05
+Dan Green,dan@email.com,150,999.99,2023-05-12
