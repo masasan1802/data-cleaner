@@ -1,3 +1,4 @@
+
 # Data Cleaner
 
 A command-line tool that cleans messy CSV/Excel files and generates a transparent report of every change made.
@@ -82,3 +83,6 @@ MIT
 
 ---
 *Built as part of a Python/data-tools portfolio.*
+
+# data-cleaner
+
